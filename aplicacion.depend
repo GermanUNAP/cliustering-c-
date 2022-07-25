@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1658728075 source:d:\una puno\5 quinto semestre\estructuras de datos avanzadas\test\aplicacion\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<graphics.h>
+	"graficar.h"
+
+1658754359 d:\una puno\5 quinto semestre\estructuras de datos avanzadas\test\aplicacion\graficar.h
+	<graphics.h>
+	<string>
+
